@@ -294,7 +294,6 @@ footer p {
     }
 
     .container {
-        padding: 1rem;
         flex-direction: column;
         align-items: center;
     }
