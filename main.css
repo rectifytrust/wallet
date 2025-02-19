@@ -147,6 +147,7 @@ p {
 .intoIMG {
     flex: 1;
     text-align: center;
+    margin-top: 20px;
 }
 
 .intoIMG img {
